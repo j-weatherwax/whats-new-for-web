@@ -20,7 +20,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <!-- links -->
   [greasyfork_icon]: https://user-images.githubusercontent.com/3372598/166113712-1bc3d654-1342-4f1e-9845-21c3b21524b1.png
-  [greasyfork_url]: <https://greasyfork.org/en/scripts/> "Get What's New for Web from GreasyFork"
+  [greasyfork_url]: <https://greasyfork.org/en/scripts/472748-what-s-new-for-web> "Get What's New for Web from GreasyFork"
 
 <!-- Extensions -->
   [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
