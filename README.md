@@ -1,6 +1,6 @@
 # What's New for Web - Adds Spotify's What's New feature to the Web version
 ## This Project has been abandoned due to Spotify adding this feature themselves 
-![A screenshot of the user interface](img\Example.PNG)
+![A screenshot of the user interface](img/Example.PNG)
 
 ## Usage
 1. If you do not already have a Browser Extension for managing UserScripts, please download one from below:  
